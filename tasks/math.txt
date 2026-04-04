@@ -1,1 +1,2 @@
 - Přidat jeden testovací úkol
+- Vyřešit krátký příklad
