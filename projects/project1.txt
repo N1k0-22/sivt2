@@ -1,0 +1,4 @@
+Moje projekty:
+
+- Kalkulačka v Pythonu
+- Jednoduchý program v C++
