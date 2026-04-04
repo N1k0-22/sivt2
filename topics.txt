@@ -1,3 +1,5 @@
 Git
 GitHub
 Python
+Práce s větvemi
+Merge a konflity
